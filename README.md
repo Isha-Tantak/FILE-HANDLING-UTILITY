@@ -89,3 +89,7 @@ It is useful for beginners and intermediate programmers looking to master Java I
 The project is structured with clear code, comments, and documentation to ensure easy readability and comprehension.
 
 By following the steps outlined in this guide, you can clone, execute, and modify the script effortlessly!
+
+
+##OUTPUT SCREENSHOT:
+![Image](https://github.com/user-attachments/assets/3d099ee4-06c1-4c52-8f46-1452ea2b40ed)
