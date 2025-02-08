@@ -5,17 +5,17 @@ public class FileHandler {
     private static final String FILE_NAME = "sample.txt";
 
     public static void main(String[] args) {
-        // Step 1: Write to a file
+      
         writeFile("This is the initial content of the file.\n");
 
-        // Step 2: Read the file content
+        
         System.out.println("Reading file after writing:");
         readFile();
 
-        // Step 3: Modify (Append) the file
+        
         modifyFile("Adding more text to the file.\n");
 
-        // Step 4: Read the modified file
+        
         System.out.println("\nReading file after modification:");
         readFile();
     }
