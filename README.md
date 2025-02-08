@@ -21,7 +21,7 @@ This project serves as an introductory exercise for learning Java I/O (Input/Out
 
 ## Project Structure
 
-/FileHandlingJava
+**FileHandlingJava
 │── FileHandler.java   # Java program for file operations
 │── sample.txt         # Auto-generated text file
 │── README.md          # Documentation file
