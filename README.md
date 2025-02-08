@@ -52,18 +52,18 @@ The program follows a step-by-step approach:
 *Final Read Operation: The updated content is displayed.
 
 ## How to Run the Program
-1️⃣ Clone the Repository
+1️. Clone the Repository
 Open a terminal or command prompt and execute:
 git clone <repository_url>
 cd FileHandlingJava
 
-2️⃣ Compile the Java Program
+2️. Compile the Java Program
 javac FileHandler.java
 
-3️⃣ Run the Java Program
+3️. Run the Java Program
 java FileHandler
 
-4️⃣ Expected Console Output:
+4️. Expected Console Output:
 File written successfully.
 Reading file after writing:
 This is the initial content of the file.
